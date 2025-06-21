@@ -1,8 +1,0 @@
-{
-	"nodes":[
-		{"id":"7c15d6c65b75652e","x":-860,"y":-460,"width":250,"height":60,"type":"text","text":"Hello\n"},
-		{"id":"cd33e2f6e44c1c0c","x":-306,"y":-626,"width":250,"height":60,"type":"text","text":""},
-		{"id":"a18ba9735ebed219","x":-1010,"y":-240,"width":400,"height":400,"type":"file","file":"remote/README.md"}
-	],
-	"edges":[]
-}
